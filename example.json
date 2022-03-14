@@ -1,0 +1,23 @@
+[
+  {
+    "name": "vishal",
+    "branch": "btech",
+    "age": 102,
+    "friends": ["vishal", "tony", "bruce"],
+    "adress": { "city": "broklyn", "state": "new york" }
+  },
+  {
+    "name": "vishal",
+    "branch": "btech",
+    "age": 102,
+    "friends": ["vishal", "tony", "bruce"],
+    "adress": { "city": "broklyn", "state": "new york" }
+  },
+  {
+    "name": "thor",
+    "last name": "rock",
+    "age": 102,
+    "friends": ["vishal", "tony", "bruce"],
+    "adress": { "city": "broklyn", "state": "new york" }
+  }
+]
